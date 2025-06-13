@@ -1,9 +1,13 @@
 # QBBT
 Data-Driven Power System Linear Model Identification via Quadrature-Based Balanced Truncation
 
-May, 2025.
+June, 2025.
 
 Data-Driven Power System Linear Model Identification via Quadrature-Based Balanced Truncation
+
+Submission ID: 9597
+
+IEEE Latin America Transactions
 
 Authors: José Moreno Corbea (UNAM), Mario A. Paternina (UNAM), Joe Chow (RPI), Alejandro Zamora Mendez (UMSNH)
 
